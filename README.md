@@ -22,11 +22,6 @@ npm install
 npm run serve
 
 
-## Using the App
-
-- Access the application through the browser.
-- Sign up or log in with your existing credentials.
-- Start chatting with other connected users.
 
 ## Authors
 
