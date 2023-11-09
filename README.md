@@ -1,29 +1,37 @@
-# IncluDO
+# Chat App MVP - Vue.js
 
-## Project setup
+This project represents a Minimum Viable Product (MVP) of a simple chat app developed with Vue.js. The app allows users to interact in real-time and exchange messages with other users.
 
-```
+## System Requirements
+
+- Node.js
+- Vue.js
+
+## Installation Instructions
+
+1. Clone the repository using the command:
+git clone https://github.com/iosonoclaudii/IncluDO
+
+2. Navigate to the project directory:
+cd IncluDO
+
+3. Install the necessary dependencies:
 npm install
-```
 
-### Compiles and hot-reloads for development
-
-```
+5. Run the application:
 npm run serve
-```
 
-### Compiles and minifies for production
 
-```
-npm run build
-```
+## Using the App
 
-### Lints and fixes files
+- Access the application through the browser.
+- Sign up or log in with your existing credentials.
+- Start chatting with other connected users.
 
-```
-npm run lint
-```
+## Authors
 
-### Customize configuration
+- Maldera Claudio
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+
+This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
