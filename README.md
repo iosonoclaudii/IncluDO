@@ -1,4 +1,4 @@
-# Chat App MVP - Vue.js
+# IncluDO
 
 This project represents a Minimum Viable Product (MVP) of a simple chat app developed with Vue.js. The app allows users to interact in real-time and exchange messages with other users.
 
